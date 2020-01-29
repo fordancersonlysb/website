@@ -48,6 +48,12 @@ p {
 
 /***** MIDDLE SECTION *****/
 
+.center {
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+}
+
 .quote {
     font-size: 1.5em;
     line-height: 1.25em;
